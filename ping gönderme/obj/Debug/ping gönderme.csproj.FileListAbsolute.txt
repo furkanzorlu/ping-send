@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ping gönderme\ping gönderme\obj\Debug\ping gönderme.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ping gönderme\ping gönderme\obj\Debug\ping_gönderme.Form1.resources
+C:\Users\HP\source\repos\ping gönderme\ping gönderme\obj\Debug\ping_gönderme.Properties.Resources.resources
+C:\Users\HP\source\repos\ping gönderme\ping gönderme\obj\Debug\ping gönderme.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ping gönderme\ping gönderme\obj\Debug\ping gönderme.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ping gönderme\ping gönderme\bin\Debug\ping gönderme.exe.config
+C:\Users\HP\source\repos\ping gönderme\ping gönderme\bin\Debug\ping gönderme.exe
+C:\Users\HP\source\repos\ping gönderme\ping gönderme\bin\Debug\ping gönderme.pdb
+C:\Users\HP\source\repos\ping gönderme\ping gönderme\obj\Debug\ping gönderme.exe
+C:\Users\HP\source\repos\ping gönderme\ping gönderme\obj\Debug\ping gönderme.pdb
